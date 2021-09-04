@@ -2,7 +2,7 @@
 <h1>Responsive Navigation Bar without JavaScript</h1>
 
 Updated:<br>
-Navigation Bar bug Fixed!<br><br>
+Responsive Navigation Bar bug Fixed!<br><br>
 
 Like & Follow on Facebook:<br>
 <a href="https://www.facebook.con/DyeeEmRonald/">Facebook</a><br>
